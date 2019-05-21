@@ -10,7 +10,7 @@ Six Hugo --- Essomba Leo
 
 
 ## Meta
-Il y a des meta ( content, name , property)
+Il y a des meta (charset, content, name , property, http-equiv, )
 ```<head profile="http://www.w3.org/1999/xhtml/vocab">
   <meta charset="utf-8" />
 <link rel="shortcut icon" href="https://www.spacex.com/sites/all/themes/spacex2012/favicon.ico" />
