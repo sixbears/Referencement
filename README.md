@@ -5,7 +5,8 @@ Six Hugo --- Essomba Leo
 # Page d'accueil du site de SpaceX 
 
 ## H1 
-
+Il y a 7 balises H1, 1 avec la class "Title", et les 6 autres avec la class "h2 title".
+Certaines balises h2 ont pour class "h3 descriptor".
 
 
 
@@ -54,6 +55,33 @@ Il y a des meta (charset, content, name , property, http-equiv, )
 <meta name="dcterms.type" content="Text" />
 <meta name="dcterms.format" content="text/html" />
 <meta name="dcterms.identifier" content="https://www.spacex.com/" />
-<meta name="dcterms.rights" content="Copyright SpaceX" />```
+<meta name="dcterms.rights" content="Copyright SpaceX" />
+<meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=1024">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+  <meta http-equiv="cleartype" content="on">
+```
 
 ## Url
+
+https://spacex.com
+
+## Alt 
+
+Il y a 10 balises alt, rempli d'un seul mot, en lien avec le sujet
+
+## IMG
+
+Les noms des fichiers images sont bien remplis en fonction de l'image.
+
+## requete de tete
+- 
+- fusée americaine
+- voyage espace
+- atterissage booster
+- 
+
+## requete de niche
+- Falcon9 
+- tesla espace
